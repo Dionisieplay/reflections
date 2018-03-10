@@ -1,0 +1,5 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is a temporary directory in the memory showing what we want to commit beofre actually commiting the change. It offers a safety net in case we make mistakes.
+
+
